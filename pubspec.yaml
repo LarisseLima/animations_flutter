@@ -25,3 +25,6 @@ flutter:
 
 assets:
   - images/
+  - images/hello.png
+  - images/lari.png
+  - images/unicorn.png

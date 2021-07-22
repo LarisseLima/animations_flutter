@@ -1,3 +1,4 @@
+import 'package:animations/screens/login/widgets/form_container.dart';
 import 'package:flutter/material.dart';
 
 class LoginScreen extends StatefulWidget {
@@ -32,6 +33,7 @@ class _LoginScreenState extends State<LoginScreen> {
                         fit: BoxFit.contain,
                       ),
                     ),
+                    FormContainer(),
                   ],
                 ),
               ],
