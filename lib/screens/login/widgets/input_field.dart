@@ -4,7 +4,6 @@ class InputField extends StatelessWidget {
   final String hint;
   final bool obscure;
   final IconData icon;
-
   // ignore: use_key_in_widget_constructors
   const InputField(
       {required this.hint, required this.obscure, required this.icon});
